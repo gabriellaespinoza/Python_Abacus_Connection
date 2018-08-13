@@ -13,4 +13,4 @@ Step 3: Download the Abacus_Connection_Template file(above) into your IDE & chan
 
 Step 4: Insert client slug and a query on lines 56 and 57. Be sure to use triple quotes around any queries you post.
 
-Step 5: Run the file! If you have trouble running it through the console, try running the script through the terminal.
+Step 5: Save the script and run your file! If you have trouble running it through the console, try running the script through the terminal.
